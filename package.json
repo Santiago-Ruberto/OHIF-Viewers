@@ -127,5 +127,21 @@
   "resolutions": {
     "**/node-gyp": "8.4.1",
     "**/@babel/runtime": "7.5.5"
-  }
+  },
+  "description": "<!-- prettier-ignore-start -->\r <!-- markdownlint-disable -->\r <div align=\"center\">\r   <h1>OHIF Medical Imaging Viewer</h1>\r   <p><strong>The OHIF Viewer</strong> is a zero-footprint medical image viewer provided by the <a href=\"http://ohif.org/\">Open Health Imaging Foundation (OHIF)</a>. It is a configurable and extensible progressive web application with out-of-the-box support for image archives which support <a href=\"https://www.dicomstandard.org/dicomweb/\">DICOMweb</a>.</p>\r </div>",
+  "version": "1.0.0",
+  "main": "aliases.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santiago-Ruberto/OHIF-Viewers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santiago-Ruberto/OHIF-Viewers/issues"
+  },
+  "homepage": "https://github.com/Santiago-Ruberto/OHIF-Viewers#readme"
 }
